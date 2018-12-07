@@ -1,0 +1,25 @@
+echo "Hello World"
+echo -E "Hi, this is Dewangee\n"
+cd Desktop/src/
+cd ..
+cd -
+pwd
+pwd -l
+history
+history -c
+exit
+ls 
+ls -l
+ls -Q
+cat hi.txt
+cat hi.txt bye.txt yo.txt
+cat hi.txt bye.txt > yo.txt
+cat hi.txt bye.txt >> yo.txt
+date
+date &a
+date %x
+date %C
+mkdir Assignment
+mkdir Desktop/src/Assignment
+rm 
+rm hi.txt
